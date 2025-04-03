@@ -1,7 +1,7 @@
 <h1 align="right">Olá 👋, Eu sou o Guilherme</h1>
 <h3 align="left">Desenvolvedor Front-End apaixonado por criar interfaces dinâmicas e responsivas, buscando uma oportunidade para aplicar minhas habilidades em HTML, CSS, JavaScript. Tenho um forte interesse em me desenvolver continuamente como profissional, aprimorando minhas técnicas e aprendendo novas abordagens para proporcionar a melhor experiência ao usuário. Estou em busca de um ambiente desafiador onde possa contribuir para o sucesso de projetos inovadores e crescer junto com a equipe.</h3>
 
-- 🌱 Estudando atualmente **JavaScript, Java e MySQL**
+- 👨🏽‍💻 Estudando atualmente **JavaScript, Java e MySQL**
 
 - 📫 Como chegar até mim **ggaldencio10@gmail.com**
 
