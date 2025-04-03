@@ -1,4 +1,4 @@
-<h1 style="color: #4fff8c">Olá! 👋 Eu sou o Guilherme Galdencio</h1>
+<h1>Olá! 👋 Eu sou o Guilherme Galdencio</h1>
 <p style="font-family: Arial">Sou um desenvolvedor Front-End apaixonado por criar interfaces dinâmicas e responsivas.</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-galdencio-marques-37638b261/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/guilherme-galdencio-marques-37638b261/) [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/guilherme-galdencio-marques-37638b261/)
